@@ -5,11 +5,24 @@ Road signs are an important part of road safety. Information about the road limi
 
 ## PROBLEM STATEMENT
 
-As the world learning towards fully autonomous vehicles, Understanding and following traffic rules and signs are very crucial . Enabling the vehicle to understand the signs even in the harsh environment could prevent most vehicles accidents ​
+As the world learning towards fully autonomous vehicles, Understanding and following traffic rules and signs are very crucial . Enabling the vehicle to understand the signs even in the harsh environment could prevent most vehicles accidents 
 
 Due to the design and colour scheme of traffic lights and signs. It makes difficult for people with visually impaired/colour blinded people from Understanding signs. This system could help them in recognising the signs and take necessary actions according to the instructions given through the sign
  
+ ## DataSet
  
+ **German Traffic Sign Recognition Benchmark**
+ 
+The German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. We cordially invite researchers from relevant fields to participate: The competition is designed to allow for participation without special domain knowledge. Our benchmark has the following properties:
+
+Single-images </br>
+More than 40 classes </br>
+More than 50,000 images </br>
+Large,lifelike database </br>
+
+[Link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+
+
  ##  Collaborators
 [HARIKRISHNAN M    :- RA2011047010068](https://github.com/The-Kriz)
 
