@@ -8,3 +8,15 @@ Road signs are an important part of road safety. Information about the road limi
 As the world learning towards fully autonomous vehicles, Understanding and following traffic rules and signs are very crucial . Enabling the vehicle to understand the signs even in the harsh environment could prevent most vehicles accidents ​
 
 Due to the design and colour scheme of traffic lights and signs. It makes difficult for people with visually impaired/colour blinded people from Understanding signs. This system could help them in recognising the signs and take necessary actions according to the instructions given through the sign
+ 
+ 
+ ##  Collaborators
+[HARIKRISHNAN M    :- RA2011047010068](https://github.com/The-Kriz)
+
+[Akshay Antony     :- RA2011047010055](https://github.com/AkshayAntony21)
+
+[Nivedh K          :- RA2011047010036](https://github.com/Nivedh05)
+
+[Hariharasudhan M  :- RA2011047010050](https://github.com/SUDHAN1022)
+
+[Anirudh S         :- RA2011047010061](https://github.com/AnirudhOO7)
